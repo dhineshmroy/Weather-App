@@ -26,3 +26,6 @@ Make sure you have Node.js and npm (Node Package Manager) installed on your mach
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/weather-app.git
+
+![Description of the image](Screen Shot 2024-09-11 at 10.35.39 AM.png)
+
