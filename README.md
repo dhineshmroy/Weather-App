@@ -27,5 +27,5 @@ Make sure you have Node.js and npm (Node Package Manager) installed on your mach
    ```bash
    git clone https://github.com/yourusername/weather-app.git
 
-![Weather App Screenshot](assets/Screen\ Shot\ 2024-09-11\ at\ 10.35.39\ AM.png)
+![Weather App Screenshot](assets/ScreenShot.png)
 
