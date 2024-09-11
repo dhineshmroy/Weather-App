@@ -13,7 +13,7 @@ This is a weather app built using **React** that fetches real-time weather data 
 
 - React
 - OpenWeatherMap API
-- CSS (or any styling library like Bootstrap)
+- CSS
 
 ## Getting Started
 
